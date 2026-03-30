@@ -12,4 +12,12 @@ Tais atividades serão sobre **Programação Competitiva**, associadas ao Marato
 
 ## Registro das Atividades
 
-## Tempo Total: 0 horas
+### 14/03 - [LeetCode Biweekly Contest 178](https://leetcode.com/contest/biweekly-contest-178/) - 1h:30min
+### 14/03 - [LeetCode Weekly Contest 493](https://leetcode.com/contest/weekly-contest-493/) - 1h:30min
+### 28/03 - [AtCoder Beginner Contest 451](https://atcoder.jp/contests/abc451) - 1h:40min
+### 28/03 - [LeetCode Biweekly Contest 179](https://leetcode.com/contest/biweekly-contest-179/) - 1h:30min
+### 28/03 - [LeetCode Weekly Contest 495](https://leetcode.com/contest/weekly-contest-495/) - 1h:30min
+
+---
+
+## Tempo Total: 7h:40min
