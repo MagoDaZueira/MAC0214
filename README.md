@@ -12,12 +12,22 @@ Tais atividades serão sobre **Programação Competitiva**, associadas ao Marato
 
 ## Registro das Atividades
 
-### 14/03 - [LeetCode Biweekly Contest 178](https://leetcode.com/contest/biweekly-contest-178/) - 1h:30min
-### 14/03 - [LeetCode Weekly Contest 493](https://leetcode.com/contest/weekly-contest-493/) - 1h:30min
-### 28/03 - [AtCoder Beginner Contest 451](https://atcoder.jp/contests/abc451) - 1h:40min
-### 28/03 - [LeetCode Biweekly Contest 179](https://leetcode.com/contest/biweekly-contest-179/) - 1h:30min
-### 28/03 - [LeetCode Weekly Contest 495](https://leetcode.com/contest/weekly-contest-495/) - 1h:30min
+### Meses
+
+#### Março
+- **Tópico do mês** - 8 problemas de **segment tree** - **6h**
+- **Problemas razoavelmente difíceis** - 6 problemas de pelo menos **1600 de rating** - **6h**
+
+---
+### Contests
+
+#### 14/03 - [LeetCode Biweekly Contest 178](https://leetcode.com/contest/biweekly-contest-178/) - 1h:30min
+#### 14/03 - [LeetCode Weekly Contest 493](https://leetcode.com/contest/weekly-contest-493/) - 1h:30min
+#### 28/03 - [AtCoder Beginner Contest 451](https://atcoder.jp/contests/abc451) - 1h:40min
+#### 28/03 - [LeetCode Biweekly Contest 179](https://leetcode.com/contest/biweekly-contest-179/) - 1h:30min
+#### 28/03 - [LeetCode Weekly Contest 495](https://leetcode.com/contest/weekly-contest-495/) - 1h:30min
+#### 11/04 - [LeetCode Biweekly Contest 180](https://leetcode.com/contest/biweekly-contest-180/) - 1h:30min
 
 ---
 
-## Tempo Total: 7h:40min
+## Tempo Total: 21h:10min
