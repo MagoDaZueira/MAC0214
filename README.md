@@ -29,7 +29,8 @@ Tais atividades serão sobre **Programação Competitiva**, associadas ao Marato
 #### 11/04 - [LeetCode Biweekly Contest 180](https://leetcode.com/contest/biweekly-contest-180/) - 1h:30min
 #### 18/04 - [LeetCode Weekly Contest 498](https://leetcode.com/contest/weekly-contest-498/) - 1h:30min
 #### 21/04 - [Codeforces Educational Round 189 (Div 2)](https://codeforces.com/contest/2225/) - 2h:00min
+#### 25/04 - [LeetCode Biweekly Contest 181](https://leetcode.com/contest/biweekly-contest-181/) - 1h:30min
 
 ---
 
-## Tempo Total: 24h:40min
+## Tempo Total: 26h:10min
