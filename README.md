@@ -30,7 +30,8 @@ Tais atividades serão sobre **Programação Competitiva**, associadas ao Marato
 #### 18/04 - [LeetCode Weekly Contest 498](https://leetcode.com/contest/weekly-contest-498/) - 1h:30min
 #### 21/04 - [Codeforces Educational Round 189 (Div 2)](https://codeforces.com/contest/2225/) - 2h:00min
 #### 25/04 - [LeetCode Biweekly Contest 181](https://leetcode.com/contest/biweekly-contest-181/) - 1h:30min
+#### 25/04 - [Seletiva USP pra MPP 2026](https://codeforces.com/gym/688480) - 5h:00min
 
 ---
 
-## Tempo Total: 26h:10min
+## Tempo Total: 31h:10min
