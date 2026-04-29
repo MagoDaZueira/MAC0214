@@ -4,6 +4,16 @@ Repositório destinado a registrar estudos e atividades realizadas para a discip
 
 Tais atividades serão sobre **Programação Competitiva**, associadas ao MaratonUSP
 
+## Estrutura do Repositório
+
+Neste `README` temos o registro de todas as atividades realizadas, junto do tempo dedicado a cada uma delas
+
+No diretório `solutions/` temos todas as soluções dessas tais atividades. Essa pasta é dividida em:
+
+- **[`contests/`](solutions/contests) -** Código dos **contests** em que participei. Subdividido pelos sites em que cada prova foi feita
+- **[`topics/`](solutions/topics) -** Problemas que pertencem ao **tópico específico** que me dediquei a estudar em cada mês
+- **[`random/`](solutions/random) -** Problemas de **tópicos diversos**. Aqui estão as questões quaisquer razoavelmente difíceis, de acordo com a meta que estabeleci para cada mês e o rating atribuído para elas no Codeforces
+
 ## Handles
 
 - **Codeforces**: [Magola](https://codeforces.com/profile/Magola)
