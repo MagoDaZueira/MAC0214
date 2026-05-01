@@ -28,6 +28,10 @@ No diretório `solutions/` temos todas as soluções dessas tais atividades. Ess
 - **Tópico do mês** - 8 problemas de **segment tree** - **6h**
 - **Problemas razoavelmente difíceis** - 6 problemas de pelo menos **1600 de rating** - **6h**
 
+#### Abril
+- **Tópico do mês** - 10 problemas de **programação dinâmica** - **9h**
+- **Problemas razoavelmente difíceis** - 8 problemas de pelo menos **1600 de rating** - **8h**
+
 ---
 ### Contests
 
@@ -44,4 +48,4 @@ No diretório `solutions/` temos todas as soluções dessas tais atividades. Ess
 
 ---
 
-## Tempo Total: 31h:10min
+## Tempo Total: 48h:10min
