@@ -32,6 +32,10 @@ No diretório `solutions/` temos todas as soluções dessas tais atividades. Ess
 - **Tópico do mês** - 10 problemas de **programação dinâmica** - **9h**
 - **Problemas razoavelmente difíceis** - 8 problemas de pelo menos **1600 de rating** - **8h**
 
+#### Maio
+- **Tópico do mês** - 10 problemas de **grafos** - **9h**
+- **Problemas razoavelmente difíceis** - 8 problemas de pelo menos **1700 de rating** - **8h**
+
 ---
 ### Contests
 
@@ -49,4 +53,4 @@ No diretório `solutions/` temos todas as soluções dessas tais atividades. Ess
 
 ---
 
-## Tempo Total: 49h:40min
+## Tempo Total: 66h:40min
