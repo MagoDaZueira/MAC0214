@@ -51,7 +51,8 @@ No diretório `solutions/` temos todas as soluções dessas tais atividades. Ess
 #### 25/04 - [Seletiva USP pra MPP 2026](https://codeforces.com/gym/688480) - 5h:00min
 #### 23/05 - [LeetCode Weekly Contest 503](https://leetcode.com/contest/weekly-contest-503/) - 1h:30min
 #### 12/06 - [Codeforces Round 1103 (Div 3)](https://codeforces.com/contest/2236/) - 2h:30min
+#### 27/06 - [Codeforces Round 1105 (Div 1, Div 2)](https://codeforces.com/contest/2240/) - 2h:30min
 
 ---
 
-## Tempo Total: 69h:10min
+## Tempo Total: 71h:40min
