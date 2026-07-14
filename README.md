@@ -52,7 +52,8 @@ No diretório `solutions/` temos todas as soluções dessas tais atividades. Ess
 #### 23/05 - [LeetCode Weekly Contest 503](https://leetcode.com/contest/weekly-contest-503/) - 1h:30min
 #### 12/06 - [Codeforces Round 1103 (Div 3)](https://codeforces.com/contest/2236/) - 2h:30min
 #### 27/06 - [Codeforces Round 1105 (Div 1, Div 2)](https://codeforces.com/contest/2240/) - 2h:30min
+#### 27/06 - [Seletiva USP 2024 (Virtual)](https://codeforces.com/gym/105297) - 5h:00min
 
 ---
 
-## Tempo Total: 71h:40min
+## Tempo Total: 76h:40min
