@@ -54,7 +54,8 @@ No diretório `solutions/` temos todas as soluções dessas tais atividades. Ess
 #### 27/06 - [Codeforces Round 1105 (Div 1, Div 2)](https://codeforces.com/contest/2240/) - 2h:30min
 #### 27/06 - [Seletiva USP 2024 (Virtual)](https://codeforces.com/gym/105297) - 5h:00min
 #### 06/07 - [Codeforces Educational Round 192 (Div 2)](https://codeforces.com/contest/2242/) - 2h:00min
+#### 14/07 - [Codeforces Round 1109 (Div 3)](https://codeforces.com/contest/2244/) - 2h:15min
 
 ---
 
-## Tempo Total: 78h:40min
+## Tempo Total: 80h:55min
