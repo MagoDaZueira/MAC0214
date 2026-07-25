@@ -36,6 +36,10 @@ No diretório `solutions/` temos todas as soluções dessas tais atividades. Ess
 - **Tópico do mês** - 10 problemas de **grafos** - **9h**
 - **Problemas razoavelmente difíceis** - 8 problemas de pelo menos **1700 de rating** - **8h**
 
+#### Junho
+- **Tópico do mês** - 10 problemas de **geometria** - **10h**
+- **Problemas razoavelmente difíceis** - 10 problemas de pelo menos **1700 de rating** - **10h**
+
 ---
 ### Contests
 
@@ -58,4 +62,4 @@ No diretório `solutions/` temos todas as soluções dessas tais atividades. Ess
 
 ---
 
-## Tempo Total: 80h:55min
+## Tempo Total: 100h:55min
