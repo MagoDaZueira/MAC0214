@@ -14,6 +14,8 @@ No diretório `solutions/` temos todas as soluções dessas tais atividades. Ess
 - **[`topics/`](solutions/topics) -** Problemas que pertencem ao **tópico específico** que me dediquei a estudar em cada mês
 - **[`random/`](solutions/random) -** Problemas de **tópicos diversos**. Aqui estão as questões quaisquer razoavelmente difíceis, de acordo com a meta que estabeleci para cada mês e o rating atribuído para elas no Codeforces
 
+Cada um dos arquivos de código tem em seu topo um comentário com o link para o enunciado original.
+
 ## Handles
 
 - **Codeforces**: [Magola](https://codeforces.com/profile/Magola)
